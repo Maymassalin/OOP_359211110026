@@ -19,6 +19,8 @@ public class SortingArray {
     showData(num);
     findSummarion(num);
     findMax(num);
+    DescendingOrder(num);
+    AscendingOrder(num);
 
     }//main
 
