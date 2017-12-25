@@ -37,25 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110026/src/ooplap5/OperatorArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="135">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortingArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SortingArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110026/src/ooplap5/SortingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-214">
-              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
-                <element signature="e#1156#1157#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperatorArray">
+  <component name="RunManager" selected="Application.SortingArray">
     <configuration name="InputDataToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -235,14 +233,14 @@
       <module name="OOP_359211110026" />
       <envs />
     </configuration>
-    <configuration name="TestNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ooplap2.opplap3.*" />
+          <option name="PATTERN" value="ooplap5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplap2.opplap3.TestNestedLoop" />
+      <option name="MAIN_CLASS_NAME" value="ooplap5.SortingArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_359211110026" />
@@ -374,19 +372,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-      <item index="1" class="java.lang.String" itemvalue="Application.myArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InputDataToArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.myArray (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OperatorArray" />
+      <item index="0" class="java.lang.String" itemvalue="Application.myArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InputDataToArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.myArray (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OperatorArray" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortingArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OperatorArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.myArray (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InputDataToArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.myArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortingArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OperatorArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.myArray (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InputDataToArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.myArray" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514191179819</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OperatorArray">
+      <created>1514191791371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514191791371</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -481,7 +486,8 @@
     <MESSAGE value="myArray" />
     <MESSAGE value="InputDataToArray" />
     <MESSAGE value="myArray2D" />
-    <option name="LAST_COMMIT_MESSAGE" value="myArray2D" />
+    <MESSAGE value="OperatorArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="OperatorArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -741,23 +747,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110026/src/ooplap5/SortingArray.java">
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110026/src/ooplap5/OperatorArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110026/src/ooplap5/OperatorArray.java">
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110026/src/ooplap5/SortingArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
